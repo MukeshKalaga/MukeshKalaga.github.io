@@ -47,7 +47,7 @@ body {
 .recent-work-title {
   padding-top: 10px;
   font-size: 1.6rem;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 500!important;
 }
 /* 
@@ -66,3 +66,13 @@ body {
 .hire-me-btn:hover:before {
   right: 0;
 } */
+
+.recent-work-container {
+  text-align: left;
+}
+.recent-work-container h2 {
+  font-size: 24px;
+}
+.recent-work-container p {
+  font-size: 16px;
+}
